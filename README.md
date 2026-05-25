@@ -77,7 +77,7 @@ The evaluation model used for generation and comparison was `gpt-4o-mini`.
 
 1. Retrieve top 5 index pages
 2. Expand into related concept pages
-3. Retrieve approximately 10 related concept pages
+3. Retrieve approximately 10 related concept pages for each retrieved concept
 4. Pass concepts to GPT-5-nano
 5. Generate answer
 
