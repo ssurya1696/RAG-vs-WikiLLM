@@ -126,10 +126,10 @@ The following metrics were measured:
 Delta values are calculated as:
 
 ```text
-WikiLLM score - RAG score
+RAG score - WikiLLM score
 ```
 
-Positive values indicate WikiLLM outperforming traditional RAG.
+Negative values indicate WikiLLM outperforming traditional RAG.
 
 ---
 
